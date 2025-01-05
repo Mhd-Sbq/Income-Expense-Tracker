@@ -1,0 +1,24 @@
+#ledgertable{
+    width: 50%;
+}
+
+#viewbuttonledger{
+    display: block;
+    margin: 10px auto 5px auto; /* Reduced top margin */
+    padding: 15px 30px;
+    font-size: 18px;
+    background-color: #28a745; /* Modern green color */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+    transition: background-color 0.3s ease, transform 0.3s ease; /* Added transform transition */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Added shadow for modern look */
+}
+
+#viewbuttonledger:hover {
+    background-color: #218838;
+    transform: translateY(-2px); /* Slight lift on hover */
+}

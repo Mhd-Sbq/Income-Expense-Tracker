@@ -1,0 +1,46 @@
+nav {
+  border-radius: 20px;
+  background-color: rgba(0, 0, 0, 0.24);
+  padding: 1rem;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  margin: 0 1rem;
+}
+
+nav ul li button {
+  background: rgba(0, 0, 0, 0.24);
+  border: none;
+  border-radius: 30px;
+  color: #1b1b1b;
+  padding: 0.75rem 1.5rem;
+  font-size: 1.2rem;
+  font-weight: bold;
+  transition: all 0.3s ease;
+}
+
+nav ul li button:hover {
+  background: rgba(0, 0, 0, 0.34);
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2), -5px -5px 10px rgba(255, 255, 255, 0.2);
+  transform: translateY(-2px);
+}
+
+nav ul li button:active {
+  background: rgba(0, 0, 0, 0.44);
+  box-shadow: inset 5px 5px 10px rgba(0, 0, 0, 0.2), inset -5px -5px 10px rgba(255, 255, 255, 0.2);
+  transform: translateY(2px);
+}
+
+nav ul li button a {
+  text-decoration: none;
+  color: #000000;
+  display: inline-block;
+}
