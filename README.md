@@ -1,5 +1,7 @@
 INCOME & EXPENSE TRACKER
 
-![RP PHOTO](https://github.com/user-attachments/assets/ecd2486d-f506-4b55-acb6-3ff87ec5fca1)
-![Ledger photo](https://github.com/user-attachments/assets/1391a499-32b6-48cf-ad62-2b8c6932ea47)
-![Ledger View](https://github.com/user-attachments/assets/7218f6e7-953d-4fa2-b73d-4ed956af2277)
+![Home](https://github.com/user-attachments/assets/68cb525d-0708-46e5-a2ef-fc83c1493ab3)
+![RP](https://github.com/user-attachments/assets/0badc32b-a1d6-47bc-a56d-e7573c13126c)
+![Ledgers](https://github.com/user-attachments/assets/2f28c93b-c034-40b4-8299-2ffd0e946c60)
+![ledgerview](https://github.com/user-attachments/assets/c7dfcd13-ebf0-46f2-8d0e-d2009c20569e)
+
